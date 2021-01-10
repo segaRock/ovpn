@@ -1,6 +1,6 @@
 FROM alpine:3.11.3
 
-LABEL maintainer="Sergey Goncharo <ebox@fcku.ru>"
+LABEL maintainer="Sergey Goncharov <ebox@fcku.ru>"
 
 ENV APP_NAME Dockovpn
 ENV APP_INSTALL_PATH /opt/${APP_NAME}
